@@ -34,7 +34,7 @@ The project analyzes trends and averages in a dataset of medical insurance infor
    cd us-insurance-analysis
 2. Make sure insurance.csv is in the same directory
 3. Run the python script
-     python data_analysis_project_us_insurance.py
+     'python data_analysis_project_us_insurance.py'
 ## 📌 Sample Output
 Average Age: 39.2  
 Average BMI: 30.6  
